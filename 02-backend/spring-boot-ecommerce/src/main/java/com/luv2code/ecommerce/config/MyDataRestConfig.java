@@ -1,4 +1,4 @@
-package com.luv2code.com.springbootecommerce.config;
+package com.luv2code.ecommerce.config;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.metamodel.EntityType;
